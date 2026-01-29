@@ -1,3 +1,7 @@
+using Infrastructure.Data;
+using Microsoft.EntityFrameworkCore;
+using System.Diagnostics;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

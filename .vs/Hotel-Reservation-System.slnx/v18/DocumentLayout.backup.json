@@ -3,84 +3,96 @@
   "WorkspaceRootPath": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEC9C041-AE64-47AB-B821-1159470389BE}|Infrastructure\\Infrastructure.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\infrastructure\\repositories\\generalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEC9C041-AE64-47AB-B821-1159470389BE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\generalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\roomreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\roomreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\irepositories\\igeneralrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|solutionrelative:domain\\irepositories\\igeneralrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\reservationdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\reservationdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|solutionrelative:domain\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26BB4B99-E4DB-8D6F-9A99-39E9DFD5E68A}|Presentation\\Presentation.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26BB4B99-E4DB-8D6F-9A99-39E9DFD5E68A}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|solutionrelative:domain\\models\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26BB4B99-E4DB-8D6F-9A99-39E9DFD5E68A}|Presentation\\Presentation.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BB4B99-E4DB-8D6F-9A99-39E9DFD5E68A}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|solutionrelative:domain\\models\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|solutionrelative:domain\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\reservationdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|solutionrelative:domain\\models\\reservationdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\roomreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|solutionrelative:domain\\models\\roomreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\roomfacility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\roomfacility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\roomfacility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|solutionrelative:domain\\models\\roomfacility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\enums\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|solutionrelative:domain\\models\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\roomoffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|solutionrelative:domain\\models\\roomoffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\roomoffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\roomoffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|solutionrelative:domain\\models\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\infrastructure\\repositories\\generalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\generalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|solutionrelative:domain\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\irepositories\\igeneralrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\irepositories\\igeneralrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\rolefeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|solutionrelative:domain\\models\\rolefeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|solutionrelative:domain\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|solutionrelative:domain\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|solutionrelative:domain\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|solutionrelative:domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\rolefeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\rolefeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B7C834-4E6C-4C03-9214-D248E7C36887}|Domain\\Domain.csproj|solutionrelative:domain\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEC9C041-AE64-47AB-B821-1159470389BE}|Infrastructure\\Infrastructure.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\infrastructure\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEC9C041-AE64-47AB-B821-1159470389BE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|d:\\tests\\upskilling\\jsb-2\\.net\\projects\\hotel-reservation-system\\infrastructure\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 22,
           "Children": [
             {
               "$type": "Bookmark",
@@ -142,20 +154,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "ReservationStatus.cs",
+              "DocumentMoniker": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Domain\\Enums\\ReservationStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\ReservationStatus.cs",
+              "ToolTip": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Domain\\Enums\\ReservationStatus.cs",
+              "RelativeToolTip": "Domain\\Enums\\ReservationStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T05:36:57.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.json",
+              "ToolTip": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Presentation\\appsettings.json",
+              "RelativeToolTip": "Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-27T11:41:29.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T11:39:06.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "GeneralRepository.cs",
               "DocumentMoniker": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Infrastructure\\Repositories\\GeneralRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\GeneralRepository.cs",
               "ToolTip": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Infrastructure\\Repositories\\GeneralRepository.cs",
               "RelativeToolTip": "Infrastructure\\Repositories\\GeneralRepository.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAkwBAAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T11:33:22.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T11:33:22.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "IGeneralRepository.cs",
               "DocumentMoniker": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Domain\\IRepositories\\IGeneralRepository.cs",
               "RelativeDocumentMoniker": "Domain\\IRepositories\\IGeneralRepository.cs",
@@ -163,12 +213,11 @@
               "RelativeToolTip": "Domain\\IRepositories\\IGeneralRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T11:30:48.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T11:30:48.506Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "Feedback.cs",
               "DocumentMoniker": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Domain\\Models\\Feedback.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Feedback.cs",
@@ -176,12 +225,11 @@
               "RelativeToolTip": "Domain\\Models\\Feedback.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T11:27:06.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T11:27:06.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "PaymentMethod.cs",
               "DocumentMoniker": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Domain\\Models\\PaymentMethod.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\PaymentMethod.cs",
@@ -207,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "Invoice.cs",
               "DocumentMoniker": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Domain\\Models\\Invoice.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Invoice.cs",
@@ -215,38 +263,37 @@
               "RelativeToolTip": "Domain\\Models\\Invoice.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T11:25:36.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T11:25:36.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "ReservationDetail.cs",
               "DocumentMoniker": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Domain\\Models\\ReservationDetail.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\ReservationDetail.cs",
               "ToolTip": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Domain\\Models\\ReservationDetail.cs",
               "RelativeToolTip": "Domain\\Models\\ReservationDetail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T11:25:09.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "RoomReservation.cs",
               "DocumentMoniker": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Domain\\Models\\RoomReservation.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\RoomReservation.cs",
               "ToolTip": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Domain\\Models\\RoomReservation.cs",
               "RelativeToolTip": "Domain\\Models\\RoomReservation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T11:24:26.193Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "RoomFacility.cs",
               "DocumentMoniker": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Domain\\Models\\RoomFacility.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\RoomFacility.cs",
@@ -259,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Facility.cs",
               "DocumentMoniker": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Domain\\Models\\Facility.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Facility.cs",
@@ -267,8 +314,7 @@
               "RelativeToolTip": "Domain\\Models\\Facility.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T11:22:28.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T11:22:28.596Z"
             },
             {
               "$type": "Document",
@@ -278,27 +324,27 @@
               "RelativeDocumentMoniker": "Domain\\Models\\RoomOffer.cs",
               "ToolTip": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Domain\\Models\\RoomOffer.cs",
               "RelativeToolTip": "Domain\\Models\\RoomOffer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T11:21:49.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "Offer.cs",
               "DocumentMoniker": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Domain\\Models\\Offer.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Offer.cs",
               "ToolTip": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Domain\\Models\\Offer.cs",
               "RelativeToolTip": "Domain\\Models\\Offer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T11:21:12.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Room.cs",
               "DocumentMoniker": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Domain\\Models\\Room.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Room.cs",
@@ -306,12 +352,11 @@
               "RelativeToolTip": "Domain\\Models\\Room.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T11:20:43.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T11:20:43.708Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "RoleFeature.cs",
               "DocumentMoniker": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Domain\\Models\\RoleFeature.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\RoleFeature.cs",
@@ -319,12 +364,11 @@
               "RelativeToolTip": "Domain\\Models\\RoleFeature.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T11:20:12.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T11:20:12.786Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Feature.cs",
               "DocumentMoniker": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Domain\\Models\\Feature.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Feature.cs",
@@ -332,12 +376,11 @@
               "RelativeToolTip": "Domain\\Models\\Feature.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T11:19:35.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T11:19:35.264Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "UserRole.cs",
               "DocumentMoniker": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Domain\\Models\\UserRole.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\UserRole.cs",
@@ -345,12 +388,11 @@
               "RelativeToolTip": "Domain\\Models\\UserRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T11:19:08.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T11:19:08.932Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Role.cs",
               "DocumentMoniker": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Domain\\Models\\Role.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Role.cs",
@@ -358,12 +400,11 @@
               "RelativeToolTip": "Domain\\Models\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T11:18:31.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T11:18:31.745Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Domain\\Models\\User.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\User.cs",
@@ -371,34 +412,32 @@
               "RelativeToolTip": "Domain\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T11:17:55.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T11:17:55.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 9,
               "Title": "BaseModel.cs",
               "DocumentMoniker": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Domain\\Models\\BaseModel.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\BaseModel.cs",
               "ToolTip": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Domain\\Models\\BaseModel.cs",
               "RelativeToolTip": "Domain\\Models\\BaseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T07:45:31.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Context.cs",
               "DocumentMoniker": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Infrastructure\\Data\\Context.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\Context.cs",
               "ToolTip": "D:\\Tests\\Upskilling\\JSB-2\\.NET\\Projects\\Hotel-Reservation-System\\Infrastructure\\Data\\Context.cs",
               "RelativeToolTip": "Infrastructure\\Data\\Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T09:02:08.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T09:02:08.982Z"
             }
           ]
         },
